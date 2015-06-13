@@ -5,7 +5,7 @@ Tumblr Themes
 
 Website: http://olleotathemes.tumblr.com/
 
-**Copyright 2014 Olle Ota**
+**Copyright 2013 Olle Ota**
 
 ## For Github users
 
