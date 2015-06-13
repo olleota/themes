@@ -1,6 +1,18 @@
-themes
-======
+![logo](https://cloud.githubusercontent.com/assets/6053890/8142912/355a6cd2-11d4-11e5-9b51-9b1553d92920.png)
 
-Themes (HTML format) in this repo are subject to our terms of use at <http://olleotathemes.tumblr.com/about/terms>.
+Tumblr Themes
+=============
 
-Visit <http://olleotathemes.tumblr.com/> for official theme pages.
+Website: http://olleotathemes.tumblr.com/
+
+**Copyright 2013, 2014, 2015 Olle Ota**
+
+## For Github users
+
+In accordance with the Github Terms of Service, you are allowed to view and fork this Github repository available at  https://github.com/olleota/themes.
+
+Distribution, modification, sale and sublicensing of our themes is forbidden.
+
+## Terms of use
+
+**By using our Tumblr themes you agree to our terms and conditions at http://olleotathemes.tumblr.com/about/terms.**
