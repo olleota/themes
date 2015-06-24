@@ -118,7 +118,13 @@
 	<meta name="select:Font size" content="1.0em" title="Medium">
 	<meta name="select:Font size" content="1.1em" title="Large">
 	<meta name="select:Font size" content="1.2em" title="Huge">
-
+  
+	<meta name="select:Theme attribution style" content="style-gray" title="Gray button">
+	<meta name="select:Theme attribution style" content="style-transparent" title="Transparent button">
+	<meta name="select:Theme attribution style" content="style-w-logo" title="White logo">
+	<meta name="select:Theme attribution style" content="style-b-logo" title="Black logo">
+	<meta name="select:Theme attribution style" content="style-s-logo" title="Surf logo">
+  
 	<meta name="select:Post button icon set" content="classic" title="Classic">
 	<meta name="select:Post button icon set" content="modern" title="Modern">
 	<meta name="select:Post button icon set" content="sketch" title="Sketch">
@@ -1188,6 +1194,7 @@
 		infinite_scroll_str  :"{lang:No more posts}",
 		form_photosets       :true,
 		photoset_gap         :'10px',
+		attribution_style    :'{select:Theme attribution style}',
 		menu                 :'{select:Menu}',
 		make_it_snow         :{block:IfMakeItSnow}true{/block:IfMakeItSnow}
                           {block:IfNotMakeItSnow}false{/block:IfNotMakeItSnow}
@@ -1195,7 +1202,7 @@
 	</script>
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="http://static.tumblr.com/79xqv9n/vMLnomljh/theme.min.js"></script>
+	<script src="http://static.tumblr.com/79xqv9n/3fZnqfjcm/theme.min.js"></script>
 	<script>$('#loading').hide();</script>
 
 	{block:IfGoogleAnalyticsID}
